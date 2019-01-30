@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1548839715 source:c:\users\diak\desktop\sapi\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
