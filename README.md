@@ -1,2 +1,2 @@
-# Liceum Informatika
-<h1>Megoldott érettségi tételek informatikából, C++ nyelvben</h1>
+# Liceumi Informatika
+<h3>Megoldott érettségi tételek informatikából, C++ nyelvben</h3>
